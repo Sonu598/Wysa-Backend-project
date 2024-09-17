@@ -33,7 +33,9 @@ The API is designed using a modern stack: **Node.js**, **Express**, and **MongoD
 
 **Command to run in terminal** - **npm run server**
 
+## Acknowledgments
 
+This project was created by **Ishupriya Rath**.
 
 
 
